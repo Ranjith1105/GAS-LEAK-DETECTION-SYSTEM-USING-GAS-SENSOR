@@ -56,7 +56,7 @@ Step 7: Save Your Work
 •	Save the Circuit: Click "Save" to keep your circuit design and code for future use.
 
 ## Program:
-
+```
 #include <LiquidCrystal.h>
 // initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
@@ -97,7 +97,7 @@ void loop() {
   lcd.clear();
 }
 
-
+```
 ## Output:
 
    <img width="1333" height="574" alt="Screenshot 2025-11-04 193704" src="https://github.com/user-attachments/assets/7d37290e-413d-4e15-a6ab-a45cd6ef4e40" />
